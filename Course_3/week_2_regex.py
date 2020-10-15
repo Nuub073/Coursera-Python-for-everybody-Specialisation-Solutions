@@ -1,5 +1,5 @@
 import re
-fname = open("regex.txt")
+fname = open("regex_data.txt")
 line = fname.read()                     #read() reads the entire file into 1 string
 numbers = re.findall('[0-9]+', line)    #everything in square brackets of regex is 1 single character
 lst = list()                            #we created a list cuz altho re.findall() returns a list , but it is a list of strings and int/float dont work on lists
