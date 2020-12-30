@@ -1,2 +1,3 @@
 # Coursera-Python-for-everybody-Specialisation-Solutions
-Just uploaded these here cuz i forget to save 🤐
+My solutions for the said course, please use these as reference, copy-pasting the same code may get ypur account banned.
+Solutions for the whole specialisation will be updated as i complete each course, no eta .
